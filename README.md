@@ -20,7 +20,7 @@
   <img align="center" alt="Paty-Msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Paty-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Paty-CY" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png">
-  <img align="right" alt="Paty-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/YSCKKbWJfGYZXDfb9q/giphy.gif">
+  <img align="right" alt="Paty-Pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/YSCKKbWJfGYZXDfb9q/giphy.gif">
 </div>
   
  ##
@@ -30,7 +30,8 @@
    <a href="https://www.linkedin.com/in/patricia-cupa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/patriciacupa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/patynuppy/patynuppy/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/patynuppy/patynuppy/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
