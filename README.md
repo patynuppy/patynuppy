@@ -1,4 +1,5 @@
 ### Oii... eu sou a Patrícia! 😊
+     Seja muito bem vindo!
 
 *** 
  🖥️ Analista de Qualidade
